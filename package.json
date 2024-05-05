@@ -1,0 +1,16 @@
+{
+  "name": "chai-code",
+  "version": "1.0.0",
+  "description": "youtube like channel from Hitech Chaudhary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai-aur-code",
+    "backend",
+    "learning"
+  ],
+  "author": "kishorekumar",
+  "license": "ISC"
+}
